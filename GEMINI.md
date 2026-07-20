@@ -1,4 +1,4 @@
- # Security and Cleanliness Rules for AI Assistants
+  # Security and Cleanliness Rules for AI Assistants
 
 > **Scope:** rules for Gemini-based agents. For Claude Code, see `CLAUDE.md`. For other AI assistants, see `AGENTS.md`.
 
