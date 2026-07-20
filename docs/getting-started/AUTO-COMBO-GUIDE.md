@@ -1,4 +1,4 @@
-# Auto-Combo: Let OmniRoute Pick the Best AI for You
+ # Auto-Combo: Let OmniRoute Pick the Best AI for You
 
 > **TL;DR**: Set your model to `auto` and OmniRoute automatically picks the best AI provider for each request. No configuration needed.
 
