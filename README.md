@@ -1,4 +1,4 @@
-<div align="center">
+  =<div align="center">
 
 <img src="./docs/screenshots/MainOmniRoute.png" alt="OmniRoute Dashboard" width="820"/>
 
